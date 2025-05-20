@@ -1,4 +1,4 @@
-FROM telegraf:1.34.3
+FROM telegraf:1.34.4
 
 RUN echo "deb http://ftp.us.debian.org/debian stable main non-free" >> /etc/apt/sources.list
 
